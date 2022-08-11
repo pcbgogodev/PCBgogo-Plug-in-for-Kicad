@@ -1,7 +1,7 @@
 import pcbnew
 
-baseUrl = 'http://www.pcbgogo.com'
-#baseUrl = 'https://www.pcbgogo.com'
+#baseUrl = 'http://www.pcbgogo.com'
+baseUrl = 'https://www.pcbgogo.com'
 netlistFilename = 'PCBGOGO_netlist.ipc'
 componentsFilename = 'PCBGOGO_components.json'
 plotPlan = [
