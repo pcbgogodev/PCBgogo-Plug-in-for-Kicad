@@ -9,7 +9,7 @@ A quick look at how the plugin works
 
 PCBGOGO plugin for Kicad - The complete guide
 
-https://www.youtube.com/watch?v=nrD2UYZUigQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrD2UYZUigQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
